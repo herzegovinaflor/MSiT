@@ -1,0 +1,5 @@
+package wumpus
+
+class PotholerModel {
+
+}
